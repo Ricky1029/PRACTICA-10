@@ -43,4 +43,4 @@ jobs:
               uses: docker/build-push-action@v6
               with:
                 push: true
-                tags: ghcr.io/Ricky1029/PRACTICA-10-main:latest
+                tags: ghcr.io/ricky1029/practica-10-main:latest
